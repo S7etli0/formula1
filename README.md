@@ -1,2 +1,2 @@
 # formula1
-download data about formula1
+download formula1 data
